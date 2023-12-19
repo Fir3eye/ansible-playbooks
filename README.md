@@ -1,7 +1,7 @@
 # DO Community - Ansible Playbooks
 
 https://www.ubuntupit.com/how-to-install-and-set-up-wordpress-with-ansible/
-
+repo - git clone https://github.com/do-community/ansible-playbooks.git
 A collection of minimalist Ansible playbooks for automating server setups, based on DigitalOcean's Community guides.
 
 - [Initial Server Setup for Ubuntu 18.04](https://github.com/do-community/ansible-playbooks/tree/master/setup_ubuntu1804) *
